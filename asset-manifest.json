@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/burger-house-website/static/css/main.aade971c.css",
+    "main.js": "/burger-house-website/static/js/main.ff70d52f.js",
+    "static/media/header.png": "/burger-house-website/static/media/header.985def06e17502f0007c.png",
+    "static/media/order-2.png": "/burger-house-website/static/media/order-2.4e22e7ac20bb96a8475d.png",
+    "static/media/order-1.png": "/burger-house-website/static/media/order-1.d0b1e35a252b9c007f81.png",
+    "static/media/order-3.png": "/burger-house-website/static/media/order-3.d0b1e35a252b9c007f81.png",
+    "static/media/header-bg.png": "/burger-house-website/static/media/header-bg.d6e6732cf9e6e1a5af2c.png",
+    "index.html": "/burger-house-website/index.html",
+    "main.aade971c.css.map": "/burger-house-website/static/css/main.aade971c.css.map",
+    "main.ff70d52f.js.map": "/burger-house-website/static/js/main.ff70d52f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aade971c.css",
+    "static/js/main.ff70d52f.js"
+  ]
+}
